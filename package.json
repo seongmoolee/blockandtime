@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "caver-js": "^1.10.1",
+    "date-and-time": "^2.4.2"
+  }
+}
